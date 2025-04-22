@@ -1,4 +1,3 @@
-Tabii! Sana bunu güzel bir `README.md` dosyasına uygun hale getirecek şekilde düzenliyorum. İşte kopyala yapıştır yapabileceğin şekilde:
 
 ---
 
@@ -93,7 +92,8 @@ The ELS Study Buddy Database is designed to manage and organize the resources, c
 ---
 
 ### ER Diagram
-*(ER Diagram can be inserted here as an image or attached separately.)*
+
+![image](https://github.com/user-attachments/assets/07311bbe-830a-4854-b2d6-9264e3ee4282)
 
 ---
 
