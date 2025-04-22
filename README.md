@@ -4,12 +4,6 @@ Ozan Umut Güney, 200302109
 Ethem Kesim, 210302205 
 Emre Çubuk, 220302393
 Contents
-1. Project Overview	1
-2. Methodology	2
-2.1 Tables	2
-2.2 Relationships	5
-2.3 Er Diagram	5
-3. Conclusion	6
 
 
 
