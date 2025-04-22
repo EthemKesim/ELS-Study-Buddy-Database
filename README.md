@@ -103,4 +103,3 @@ This database schema helps in managing the educational resources efficiently, or
 
 ---
 
-İstersen bunu doğrudan bir `.md` dosyasına da çevirebilirim. İster misin onu da hazır vereyim? 🚀
