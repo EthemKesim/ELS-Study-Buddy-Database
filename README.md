@@ -101,5 +101,5 @@ The ELS Study Buddy Database is designed to manage and organize the resources, c
 
 This database schema helps in managing the educational resources efficiently, organizing classroom allocations, and tracking both student progress and professor and tutor assignments within the IUS English Language School.
 
----
+----
 
